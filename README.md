@@ -8,7 +8,7 @@ SMS бомбер с приятным веб-интерфейсом.
 2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/w4nesz/bomber
+    git clone https://github.com/Neovaii-McPe/BoMb3r
     cd bomber
     ```
 4. Установите все необходимые библиотеки и запустите скрипт:
@@ -40,7 +40,3 @@ SMS бомбер с приятным веб-интерфейсом.
    rm -rf bomber
    ```
 2. Выполните действия, начиная с пункта 3 из инструкции по установке на Windows.
-# Скриншоты
-⁣                           |  ⁣
-:-------------------------:|:-------------------------:
-![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot.png)  |  ![](https://github.com/crinny/b0mb3r/blob/master/assets/screenshot_mobile.png)
